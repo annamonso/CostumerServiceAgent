@@ -1,0 +1,252 @@
+[
+  {
+    "order_id": "ORD-1001",
+    "customer_id": "C001",
+    "items": [
+      {"name": "Wireless Bluetooth Headphones", "qty": 1, "price": 89.99},
+      {"name": "USB-C Charging Cable 2-Pack", "qty": 1, "price": 12.99}
+    ],
+    "total": 102.98,
+    "status": "delivered",
+    "order_date": "2025-01-10",
+    "delivery_date": "2025-01-16",
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1002",
+    "customer_id": "C002",
+    "items": [
+      {"name": "Stainless Steel Water Bottle", "qty": 2, "price": 24.99}
+    ],
+    "total": 49.98,
+    "status": "delivered",
+    "order_date": "2025-11-28",
+    "delivery_date": "2025-12-03",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1003",
+    "customer_id": "C003",
+    "items": [
+      {"name": "4K Monitor 27-inch", "qty": 1, "price": 349.99},
+      {"name": "Monitor Stand Arm", "qty": 1, "price": 45.00}
+    ],
+    "total": 394.99,
+    "status": "delivered",
+    "order_date": "2025-12-01",
+    "delivery_date": "2025-12-05",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1004",
+    "customer_id": "C004",
+    "items": [
+      {"name": "Noise Cancelling Earbuds", "qty": 1, "price": 129.99}
+    ],
+    "total": 129.99,
+    "status": "cancelled",
+    "order_date": "2025-11-15",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1005",
+    "customer_id": "C005",
+    "items": [
+      {"name": "Yoga Mat Premium", "qty": 1, "price": 54.99},
+      {"name": "Resistance Bands Set", "qty": 1, "price": 19.99}
+    ],
+    "total": 74.98,
+    "status": "in_transit",
+    "order_date": "2026-03-05",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1006",
+    "customer_id": "C006",
+    "items": [
+      {"name": "Coffee Maker Programmable", "qty": 1, "price": 79.99}
+    ],
+    "total": 79.99,
+    "status": "delivered",
+    "order_date": "2026-02-14",
+    "delivery_date": "2026-02-19",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1007",
+    "customer_id": "C007",
+    "items": [
+      {"name": "Mechanical Keyboard TKL", "qty": 1, "price": 114.99},
+      {"name": "Mouse Pad XL", "qty": 1, "price": 22.00}
+    ],
+    "total": 136.99,
+    "status": "processing",
+    "order_date": "2026-03-09",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1008",
+    "customer_id": "C008",
+    "items": [
+      {"name": "Standing Desk Electric", "qty": 1, "price": 499.00},
+      {"name": "Cable Management Kit", "qty": 1, "price": 18.99}
+    ],
+    "total": 517.99,
+    "status": "delivered",
+    "order_date": "2026-01-20",
+    "delivery_date": "2026-01-27",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1009",
+    "customer_id": "C009",
+    "items": [
+      {"name": "Phone Case iPhone 15", "qty": 1, "price": 19.99}
+    ],
+    "total": 19.99,
+    "status": "delivered",
+    "order_date": "2026-02-28",
+    "delivery_date": "2026-03-04",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1010",
+    "customer_id": "C010",
+    "items": [
+      {"name": "Smart Home Hub", "qty": 1, "price": 89.99},
+      {"name": "Smart Light Bulbs 4-Pack", "qty": 2, "price": 34.99}
+    ],
+    "total": 159.97,
+    "status": "in_transit",
+    "order_date": "2026-03-07",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1011",
+    "customer_id": "C001",
+    "items": [
+      {"name": "Laptop Backpack 15.6-inch", "qty": 1, "price": 49.99}
+    ],
+    "total": 49.99,
+    "status": "delivered",
+    "order_date": "2025-10-05",
+    "delivery_date": "2025-10-11",
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1012",
+    "customer_id": "C002",
+    "items": [
+      {"name": "Portable Power Bank 20000mAh", "qty": 1, "price": 44.99},
+      {"name": "Travel Adapter Universal", "qty": 1, "price": 29.99}
+    ],
+    "total": 74.98,
+    "status": "delivered",
+    "order_date": "2026-02-01",
+    "delivery_date": "2026-02-07",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1013",
+    "customer_id": "C003",
+    "items": [
+      {"name": "Ergonomic Office Chair", "qty": 1, "price": 289.99}
+    ],
+    "total": 289.99,
+    "status": "in_transit",
+    "order_date": "2026-03-08",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1014",
+    "customer_id": "C005",
+    "items": [
+      {"name": "Air Fryer 5.8 Qt", "qty": 1, "price": 99.99}
+    ],
+    "total": 99.99,
+    "status": "delivered",
+    "order_date": "2025-12-20",
+    "delivery_date": "2025-12-26",
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1015",
+    "customer_id": "C006",
+    "items": [
+      {"name": "Webcam 1080p", "qty": 1, "price": 69.99},
+      {"name": "Ring Light 10-inch", "qty": 1, "price": 39.99}
+    ],
+    "total": 109.98,
+    "status": "delivered",
+    "order_date": "2026-01-10",
+    "delivery_date": "2026-01-16",
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1016",
+    "customer_id": "C007",
+    "items": [
+      {"name": "Graphic Novel Bundle x5", "qty": 1, "price": 59.95}
+    ],
+    "total": 59.95,
+    "status": "cancelled",
+    "order_date": "2026-03-01",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1017",
+    "customer_id": "C008",
+    "items": [
+      {"name": "Wireless Charging Pad", "qty": 3, "price": 29.99},
+      {"name": "Smart Plug 4-Pack", "qty": 1, "price": 39.99}
+    ],
+    "total": 129.96,
+    "status": "delivered",
+    "order_date": "2026-02-10",
+    "delivery_date": "2026-02-14",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1018",
+    "customer_id": "C009",
+    "items": [
+      {"name": "Skincare Set Deluxe", "qty": 1, "price": 74.99}
+    ],
+    "total": 74.99,
+    "status": "processing",
+    "order_date": "2026-03-10",
+    "delivery_date": null,
+    "eligible_for_refund": false
+  },
+  {
+    "order_id": "ORD-1019",
+    "customer_id": "C010",
+    "items": [
+      {"name": "Running Shoes Men Size 11", "qty": 1, "price": 119.99}
+    ],
+    "total": 119.99,
+    "status": "delivered",
+    "order_date": "2026-02-20",
+    "delivery_date": "2026-02-25",
+    "eligible_for_refund": true
+  },
+  {
+    "order_id": "ORD-1020",
+    "customer_id": "C004",
+    "items": [
+      {"name": "Bluetooth Speaker Waterproof", "qty": 1, "price": 59.99},
+      {"name": "Carabiner Clip Set", "qty": 1, "price": 9.99}
+    ],
+    "total": 69.98,
+    "status": "delivered",
+    "order_date": "2025-09-15",
+    "delivery_date": "2025-09-21",
+    "eligible_for_refund": false
+  }
+]

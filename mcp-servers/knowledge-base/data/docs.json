@@ -1,0 +1,62 @@
+[
+  {
+    "id": "doc-001",
+    "topic": "account-recovery",
+    "title": "Recovering Access to Your ShopEasy Account",
+    "content": "If you are locked out of your ShopEasy account, there are several recovery options available. For password issues, use the 'Forgot Password' flow on the login page — a reset link is valid for 24 hours. If your email address has changed or you no longer have access to it, contact support with your full name, order history, and the last 4 digits of the payment method on file. Our team can verify your identity and update your email within 1-2 business days. If you suspect your account has been compromised, immediately use the 'Secure My Account' option which will log out all sessions and lock the account pending identity verification. Two-factor authentication (2FA) is strongly recommended and can be enabled under Account Settings > Security."
+  },
+  {
+    "id": "doc-002",
+    "topic": "shipping-info",
+    "title": "ShopEasy Shipping Options and Policies",
+    "content": "ShopEasy offers three domestic shipping tiers: Standard (5-7 business days, free on orders over $50), Expedited (2-3 business days, $9.99), and Overnight (next business day, $24.99). Orders placed before 2 PM EST on a business day ship the same day. Orders placed on weekends or holidays ship the next business day. Tracking information is emailed within 2 hours of shipment. For international orders, ShopEasy ships to 30+ countries. Delivery times range from 7-21 business days. Import duties and taxes are the responsibility of the recipient and are not included in the ShopEasy order total. Expedited international shipping is available to select countries for an additional fee. Packages over 50 lbs may incur a dimensional weight surcharge. PO boxes are supported for Standard shipping only."
+  },
+  {
+    "id": "doc-003",
+    "topic": "return-process",
+    "title": "Step-by-Step Guide to Returning Items",
+    "content": "Step 1: Log in to your ShopEasy account and navigate to 'My Orders'. Step 2: Find the order containing the item you wish to return and click 'View Order Details'. Step 3: Select the item(s) to return and choose a reason from the dropdown (e.g., 'Item not as described', 'Defective', 'Changed my mind'). Step 4: Choose your preferred refund method — original payment method or ShopEasy store credit (store credit is processed immediately; payment method refunds take 5-10 business days). Step 5: Print the prepaid return shipping label emailed to you. Step 6: Pack the item securely in its original packaging if possible and affix the label. Step 7: Drop off at any authorized carrier location. Refunds are initiated within 3-5 business days of the warehouse receiving the return. Items must be returned in the same condition as received. Damaged, used, or incomplete returns may be subject to a restocking fee of up to 20%."
+  },
+  {
+    "id": "doc-004",
+    "topic": "payment-methods",
+    "title": "Accepted Payment Methods at ShopEasy",
+    "content": "ShopEasy accepts the following payment methods: Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and ShopEasy Store Credit. Buy Now Pay Later (BNPL) options including Klarna and Afterpay are available for orders over $100. Cryptocurrency payments (BTC, ETH) are accepted for orders over $500. Gift cards are redeemable at checkout and can be combined with other payment methods. For Enterprise accounts, we support NET-30 invoicing and purchase orders. To add a payment method, go to Account Settings > Payment Methods. For security, ShopEasy never stores full card numbers — all payment data is handled by PCI-DSS Level 1 certified processors."
+  },
+  {
+    "id": "doc-005",
+    "topic": "product-warranty",
+    "title": "Understanding ShopEasy Product Warranties",
+    "content": "All physical products sold on ShopEasy are covered by the manufacturer's warranty, which is typically 1 year for electronics and 90 days for accessories. ShopEasy also offers an extended warranty program called ShopEasy Shield, available for purchase within 30 days of the original order. ShopEasy Shield covers: accidental damage, power surges, and mechanical failures beyond the manufacturer warranty period. To file a warranty claim, go to My Orders > Select Order > Warranty Claim, or contact support with your order number and a description of the defect. Warranty claims are reviewed within 2 business days. Approved claims may result in repair, replacement, or refund at ShopEasy's discretion. Warranty is void if the product shows evidence of physical damage, unauthorized modification, or misuse."
+  },
+  {
+    "id": "doc-006",
+    "topic": "account-recovery",
+    "title": "Two-Factor Authentication Setup and Recovery",
+    "content": "Two-factor authentication (2FA) adds a critical layer of security to your ShopEasy account. To enable 2FA: go to Account Settings > Security > Enable Two-Factor Authentication. Choose between SMS verification or an authenticator app (Google Authenticator, Authy). Backup codes are provided during setup — store these securely. If you lose access to your 2FA method: use a backup code to log in, then update your 2FA settings. If backup codes are also unavailable, contact support with government-issued ID and proof of account ownership. Recovery may take 3-5 business days for security verification. Never share your 2FA codes or backup codes with anyone, including ShopEasy support staff."
+  },
+  {
+    "id": "doc-007",
+    "topic": "shipping-info",
+    "title": "Dealing with Lost, Damaged, or Delayed Shipments",
+    "content": "If your package has not arrived by the estimated delivery date, first check the tracking information for any carrier updates. Common causes of delay include weather events, carrier backlogs, and customs holds (international orders). If the tracking shows 'delivered' but you have not received the package: check around your property, with neighbors, and in any secure mailroom. Wait 24 hours as carriers sometimes mark packages delivered early. If still missing after 48 hours, file a claim through your ShopEasy account under My Orders > Report Missing Package. ShopEasy will open an investigation with the carrier and resolve the issue within 5-7 business days, typically by issuing a replacement or refund. For visibly damaged packages: take photos before opening, document all damage, and file a damage report within 48 hours of delivery."
+  },
+  {
+    "id": "doc-008",
+    "topic": "return-process",
+    "title": "Non-Returnable Items and Exceptions",
+    "content": "Certain items cannot be returned to ShopEasy for health, safety, or policy reasons. Non-returnable items include: digital downloads and software licenses once activated, perishable food items, personalized or custom-made products, hazardous materials, and intimate apparel. These items are clearly marked as 'Non-Returnable' on their product pages before purchase. Exceptions may be made if the item arrived defective or significantly not as described — contact support with photographic evidence within 7 days of delivery. For seller-fulfilled items (marked 'Sold by [Seller Name]'), return policies may differ from ShopEasy's standard policy and are listed on the product page. If you are unsure whether an item is returnable, contact support before purchasing."
+  },
+  {
+    "id": "doc-009",
+    "topic": "payment-methods",
+    "title": "Billing Issues, Disputes, and Charge Explanations",
+    "content": "If you see an unexpected charge from ShopEasy, first check your recent orders including any subscription renewals or split shipments. ShopEasy may charge in installments if an order ships in multiple packages. Pre-authorizations (temporary holds) are placed when an order is placed and released if the order is cancelled. If you believe a charge is erroneous: go to Account Settings > Payment History > Dispute Charge, or contact support with the transaction date and amount. ShopEasy resolves billing disputes within 5-7 business days. If the charge is confirmed as an error, a full refund is issued immediately. Initiating a chargeback with your bank before contacting ShopEasy support may delay resolution and temporarily suspend your account pending investigation."
+  },
+  {
+    "id": "doc-010",
+    "topic": "product-warranty",
+    "title": "ShopEasy Shield Extended Warranty Program Details",
+    "content": "ShopEasy Shield is an optional extended warranty program offering coverage beyond the standard manufacturer warranty. Plans are available in 1-year, 2-year, and 3-year terms. Coverage includes: manufacturer defects after the original warranty expires, accidental drops and spills, screen damage on devices, and 24/7 priority technical support. ShopEasy Shield does NOT cover: cosmetic damage not affecting function, loss or theft, damage from natural disasters, and damage due to unauthorized repairs. To purchase ShopEasy Shield: it can be added within 30 days of product delivery from the My Orders page. Monthly payment options are available for Shield plans over $50. Transferable to a new owner if the product is sold, adding resale value. To make a Shield claim: call 1-800-SHOPEASY or use the online claim portal. Most claims are resolved within 3-5 business days."
+  }
+]

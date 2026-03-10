@@ -1,0 +1,82 @@
+[
+  {
+    "customer_id": "C001",
+    "email": "james.harris@example.com",
+    "name": "James Harris",
+    "plan": "basic",
+    "account_status": "active",
+    "member_since": "2022-03-14"
+  },
+  {
+    "customer_id": "C002",
+    "email": "sarah.kim@example.com",
+    "name": "Sarah Kim",
+    "plan": "premium",
+    "account_status": "active",
+    "member_since": "2021-07-22"
+  },
+  {
+    "customer_id": "C003",
+    "email": "anna@shopeasy.com",
+    "name": "Anna",
+    "plan": "enterprise",
+    "account_status": "active",
+    "member_since": "2020-01-05"
+  },
+  {
+    "customer_id": "C004",
+    "email": "mike.foster@example.com",
+    "name": "Mike Foster",
+    "plan": "basic",
+    "account_status": "suspended",
+    "member_since": "2023-05-18"
+  },
+  {
+    "customer_id": "C005",
+    "email": "priya.patel@example.com",
+    "name": "Priya Patel",
+    "plan": "premium",
+    "account_status": "active",
+    "member_since": "2022-11-30"
+  },
+  {
+    "customer_id": "C006",
+    "email": "carlos.mendez@example.com",
+    "name": "Carlos Mendez",
+    "plan": "basic",
+    "account_status": "active",
+    "member_since": "2023-08-09"
+  },
+  {
+    "customer_id": "C007",
+    "email": "emily.chen@example.com",
+    "name": "Emily Chen",
+    "plan": "premium",
+    "account_status": "active",
+    "member_since": "2021-02-17"
+  },
+  {
+    "customer_id": "C008",
+    "email": "david.okafor@example.com",
+    "name": "David Okafor",
+    "plan": "enterprise",
+    "account_status": "active",
+    "member_since": "2019-09-03"
+  },
+  {
+    "customer_id": "C009",
+    "email": "lisa.nguyen@example.com",
+    "name": "Lisa Nguyen",
+    "plan": "basic",
+    "account_status": "active",
+    "member_since": "2024-01-12"
+  },
+  {
+    "customer_id": "C010",
+    "email": "tom.robinson@example.com",
+    "name": "Tom Robinson",
+    "plan": "premium",
+    "account_status": "active",
+    "member_since": "2022-06-28"
+  }
+]
